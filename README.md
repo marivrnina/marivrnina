@@ -1,18 +1,46 @@
-# Hi, I'm Mariia!
+# Hi, I'm Mariia
 
-MS in Business Analytics @ St. John’s University  May 2026
-New York City  
+Data Analyst focused on time series analysis, and applied machine learning. I use Python and SQL to analyze data, build models, and support data-driven decision-making.
+MS in Business Analytics
 
-I’m passionate about turning data into insights and building practical machine learning solutions.  
-I enjoy working with real-world datasets, exploring patterns, and creating models that support decision-making.
+---
 
-## 💻 What I work with
+## What I work with
+
 - Python (pandas, numpy, scikit-learn)
-- SQL & ETL
-- Tableau & Excel
-- Machine Learning & Time Series
-- Data Visualization & EDA
+- SQL
+- R
+- Time series analysis & forecasting
+- Machine learning
+- Data visualization & EDA
 
-## 📫 Connect with me
+---
+
+## Experience
+
+- Lead Teaching Assistant — NYC Tech Talent Pipeline (Data Analytics & Cybersecurity)
+- Research & Teaching Assistant — St. John’s University
+- Advanced Analytics Intern — Alfa-Bank
+
+---
+
+
+---
+
+## Focus Areas
+
+- Financial data analysis
+- Predictive modeling
+- Time series forecasting
+- Applied econometrics
+
+---
+
+## Links
 - LinkedIn: https://www.linkedin.com/in/m-r-v-r-n/
 - Portfolio: https://mariiavoronina.com
+
+## Projects
+
+- **Girly ML (Side Project)**  
+  Built machine learning models to explore patterns in behavioral and lifestyle data using Python. Focused on data preprocessing, feature engineering, and model evaluation.
