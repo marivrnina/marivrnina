@@ -1,19 +1,19 @@
 ![banner](./profile-banner%20%282%29.svg)
-I use Python and SQL to analyze data, build models, and support data-driven decision-making — with a focus on time series analysis and applied machine learning. MS in Business Analytics.
+I use Python and SQL to analyze data, build models, and support data-driven decision-making, with a focus on time series analysis and applied machine learning. MS in Business Analytics.
 
 ## What I work with
-- Python — pandas, numpy, scikit-learn, matplotlib, seaborn, Anthropic API, data pipelines & automation
+- Python: pandas, numpy, scikit-learn, matplotlib, seaborn, Anthropic API, data pipelines & automation
 - SQL
 - R
 - Tableau
-- Machine learning — classification, regression, feature engineering, model evaluation
+- Machine learning: classification, regression, feature engineering, model evaluation
 - Time series analysis & forecasting
 - Data visualization & EDA
 
 ## Experience
-- Lead Teaching Assistant — NYC Tech Talent Pipeline (Data Analytics & Cybersecurity)
-- Research & Teaching Assistant — St. John's University
-- Advanced Analytics Intern — Alfa-Bank
+- Lead Teaching Assistant: NYC Tech Talent Pipeline (Data Analytics & Cybersecurity)
+- Research & Teaching Assistant: St. John's University
+- Advanced Analytics Intern: Alfa-Bank
 
 ## Focus areas
 - Financial data analysis
