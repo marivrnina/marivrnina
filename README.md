@@ -1,3 +1,4 @@
+![banner](./profile-banner (2).svg)
 # Hi, I'm Mariia
 
 Data Analyst focused on time series analysis, and applied machine learning. I use Python and SQL to analyze data, build models, and support data-driven decision-making.
